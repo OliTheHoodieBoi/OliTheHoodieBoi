@@ -19,3 +19,8 @@ I experiment with all sorts of bits and bobs, typically involving a healthy amou
 My text editor of choice is [Visual Studio Code](https://code.visualstudio.com), but I also use [IntelliJ IDEA](https://www.jetbrains.com/idea) when programming in Kotlin or Java.  
 I use [GIMP](https://www.gimp.org) for [raster image](https://en.wikipedia.org/wiki/Raster_graphics) manipulation and [Adobe Illustrator](https://www.adobe.com/products/illustrator) for [vector](https://en.wikipedia.org/wiki/Vector_graphics) illustration.  
 If you're interested in CAD and 3D-printing I use [Fusion 360](https://www.autodesk.com/products/fusion-360/overview) for designing and [UltiMaker Cura](https://ultimaker.com/software/ultimaker-cura) as my slicer.  
+
+## Stats for nerds
+
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olillin&langs_count=7&theme=transparent&hide_border=true&custom_title=My%20favourite%20languages) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=olillin&show=prs_merged&hide=stars&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&custom_title=I%20spend%20to%20much%20time%20on%20the%20computer) |
+|-|-|
